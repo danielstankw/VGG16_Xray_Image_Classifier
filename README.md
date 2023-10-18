@@ -1,8 +1,8 @@
 # Multiclass image classification (X-ray)
 
 ## 1. Overview
-In this repository a code related to image classification is found.   
-The objective was to learn to distinguish 3 classes related to lung state based on X-ray images.  The classes are: COVID-19, Viral Pneumonia, Normal.  
+This repositiory presents a very simple example of multiclass image classification.  
+The problem objective was to learn to distinguish 3 classes related to lung state based on X-ray images.  The classes present in the dataset are: COVID-19, Viral Pneumonia, Normal.  
 For this problem the Vgg16 pre-trained model was used, achieving promising results.
 The dataset can be downloaded from [Kaggle](https://www.kaggle.com/datasets/pranavraikokte/covid19-image-dataset)
 
